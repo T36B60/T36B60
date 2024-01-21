@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T36B60
-- 👀 I’m interested in Solidity, JavaScript, CSS, Pyhton, React native, Rust, Go, Angular .....
+- 👀 I’m interested in Solidity, Pyhton, JavaScript, CSS, React, Rust, Go, Angular .....
 - 🌱 I’m currently learning Solidty and JavaScript
-- 💞️ I’m looking to collaborate on Crypotocurrencies, DeFi, Web3
+- 💞️ I’m looking to collaborate on  Web3
 - 📫 How to reach me, straight over this GitHub Platform
 
 <!---
